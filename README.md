@@ -185,7 +185,7 @@ For detailed contribution guidelines, please check our [Contributing Guide](CONT
 
 ## 🎨 Credits
 
-- Cat illustrations by [Natalia Kosheleva](https://www.istockphoto.com/portfolio/sicklemoon?mediatype=illustrationa) on iStock
+- Cat illustrations by [Natalia Kosheleva](https://www.istockphoto.com/portfolio/sicklemoon) on iStock
 - Original Java Swing implementation: [pawmodoro](https://github.com/rachelkd/pawmodoro)
 
 ## 📄 License
