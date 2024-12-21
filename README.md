@@ -116,8 +116,7 @@ cd frontend
 2. Create a `.env.local` file with your Supabase credentials:
 
 ```env
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+NEXT_PUBLIC_API_URL=http://localhost:8080  # Or whatever port the backend is hosted on
 ```
 
 3. Install dependencies and run the development server:
