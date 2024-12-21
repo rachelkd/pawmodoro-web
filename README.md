@@ -86,7 +86,7 @@ git submodule update
 1. Navigate to the backend directory:
 
 ```bash
-cd pawmodoro-backend
+cd backend
 ```
 
 2. Create a `application-local.properties` file in `src/main/resources` with your Supabase credentials:
@@ -110,7 +110,7 @@ The backend will start on `http://localhost:8080`
 1. Navigate to the frontend directory:
 
 ```bash
-cd pawmodoro-web
+cd frontend
 ```
 
 2. Create a `.env.local` file with your Supabase credentials:
