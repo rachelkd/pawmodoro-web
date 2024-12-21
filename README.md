@@ -50,9 +50,9 @@ This project was originally developed as a Java Swing application and has been m
 ## 🏗 Project Structure
 
 ```
-pawmodoro/
-├── pawmodoro-backend/    # Spring Boot backend
-├── pawmodoro-web/       # Next.js frontend
+pawmodoro-web/
+├── backend/    # Spring Boot backend
+├── frontend/       # Next.js frontend
 └── README.md
 ```
 
