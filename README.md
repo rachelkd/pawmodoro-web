@@ -2,7 +2,7 @@
 
 A web application that gamifies studying using the Pomodoro Technique combined with virtual pet care. Keep your focus sharp and your virtual cat happy!
 
-https://github.com/user-attachments/assets/aaba19ae-d68f-4cc3-923d-05da709d8abe
+https://github.com/user-attachments/assets/ef91055d-0e38-4750-b88d-e32ea6b2d0f2
 
 ## Table of Contents
 
